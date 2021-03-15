@@ -20,9 +20,9 @@
 
 ## ERD 설계도
 
->URL : https://aquerytool.com:443/aquerymain/index/?rurl=060c74a3-44ee-48d7-a465-d50ce7ea22db&
+>AQueryTool 사용
 
->Password : v7g731
+<img src="https://firebasestorage.googleapis.com/v0/b/mangoplate-a1a46.appspot.com/o/%EC%A0%84%EA%B5%AD%EB%B0%A9%ED%83%88%EC%B6%9C_20210316_59_05.png?alt=media&token=39090614-338a-4969-b3a0-838adcdfb860" >
 
 ---
 ## API Sheet
