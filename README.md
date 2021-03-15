@@ -1,10 +1,10 @@
-# Rising Programmer - server study 
+# App server study code 
 
 ```
 애플리케이션 rest api설계 및 api sheet작성 
 ```
 
-### 라이징프로그래머 2기 과정에서 공부 용도로 사용했었던 앱 전국방탈출 클론 백엔드 코드입니다.
+### 공부 용도로 사용했었던 클론앱 전국방탈출 백엔드 코드입니다.
 
 
 ---
