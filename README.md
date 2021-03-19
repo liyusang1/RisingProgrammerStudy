@@ -22,7 +22,7 @@
 
 >AQueryTool 사용
 
-<img src="https://firebasestorage.googleapis.com/v0/b/mangoplate-a1a46.appspot.com/o/%EC%A0%84%EA%B5%AD%EB%B0%A9%ED%83%88%EC%B6%9C_20210319_00_53.png?alt=media&token=48c55671-5121-45eb-8a41-3d1f02053a29" >
+<img src="https://firebasestorage.googleapis.com/v0/b/mangoplate-a1a46.appspot.com/o/%EC%A0%84%EA%B5%AD%EB%B0%A9%ED%83%88%EC%B6%9C_20210319_19_46.png?alt=media&token=e444d069-7836-46df-846a-2edd7e37bc06" >
 
 ---
 ## API Sheet
